@@ -22,3 +22,5 @@ Bu proje, apartman yönetimi için geliştirilmiş bir Windows Forms uygulaması
 ## Kurulum
 ```bash
 git clone https://github.com/berkbagb/okul.git
+```
+## SİSTEM HENÜZ GELİŞTİRME AŞAMASINDADIR.
