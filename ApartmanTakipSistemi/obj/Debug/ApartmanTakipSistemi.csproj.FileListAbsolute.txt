@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\ApartmanTakipSistemi\ApartmanTakipSistemi\bin\Debug\ApartmanTakipSistemi.exe.config
+C:\Users\User\source\repos\ApartmanTakipSistemi\ApartmanTakipSistemi\bin\Debug\ApartmanTakipSistemi.exe
+C:\Users\User\source\repos\ApartmanTakipSistemi\ApartmanTakipSistemi\bin\Debug\ApartmanTakipSistemi.pdb
+C:\Users\User\source\repos\ApartmanTakipSistemi\ApartmanTakipSistemi\obj\Debug\ApartmanTakipSistemi.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ApartmanTakipSistemi\ApartmanTakipSistemi\obj\Debug\ApartmanTakipSistemi.AidatForm.resources
+C:\Users\User\source\repos\ApartmanTakipSistemi\ApartmanTakipSistemi\obj\Debug\ApartmanTakipSistemi.AnaForm.resources
+C:\Users\User\source\repos\ApartmanTakipSistemi\ApartmanTakipSistemi\obj\Debug\ApartmanTakipSistemi.DaireForm.resources
+C:\Users\User\source\repos\ApartmanTakipSistemi\ApartmanTakipSistemi\obj\Debug\ApartmanTakipSistemi.GiderForm.resources
+C:\Users\User\source\repos\ApartmanTakipSistemi\ApartmanTakipSistemi\obj\Debug\ApartmanTakipSistemi.Properties.Resources.resources
+C:\Users\User\source\repos\ApartmanTakipSistemi\ApartmanTakipSistemi\obj\Debug\ApartmanTakipSistemi.RaporForm.resources
+C:\Users\User\source\repos\ApartmanTakipSistemi\ApartmanTakipSistemi\obj\Debug\ApartmanTakipSistemi.csproj.GenerateResource.cache
+C:\Users\User\source\repos\ApartmanTakipSistemi\ApartmanTakipSistemi\obj\Debug\ApartmanTakipSistemi.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ApartmanTakipSistemi\ApartmanTakipSistemi\obj\Debug\ApartmanTakipSistemi.exe
+C:\Users\User\source\repos\ApartmanTakipSistemi\ApartmanTakipSistemi\obj\Debug\ApartmanTakipSistemi.pdb
