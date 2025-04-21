@@ -19,6 +19,7 @@ namespace ApartmanTakipSistemi
             string query = "SELECT d.DaireNo, a.Tarih, a.Miktar FROM Aidatlar a JOIN Daireler d ON a.DaireID = d.DaireID WHERE a.OdendiMi = 0";
             dgvOdenmemisAidatlar.DataSource = dbHelper.ExecuteQuery(query);
         }
+        
 
         private void daireİşlemleriToolStripMenuItem_Click(object sender, EventArgs e)
         {
